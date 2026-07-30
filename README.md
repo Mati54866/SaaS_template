@@ -23,7 +23,8 @@
 4. [Quick Start](#quick-start)
 5. [Project Structure](#project-structure)
 6. [Environment Variables](#environment-variables)
-7. [Credits](#credits)
+7. [Deployment](#deployment)
+8. [Credits](#credits)
 
 ## <a name="introduction">🤖 Introduction</a>
 
