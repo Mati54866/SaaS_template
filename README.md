@@ -32,7 +32,7 @@ A high-powered SaaS template packed with built-in user authentication, subscript
 
 > 📌 **Note:** This project was built following a tutorial and customized for learning and portfolio purposes.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">⚙️ Tech Stacks</a>
 
 - **Next.js** - React framework with SSR and API routes
 - **Clerk** - Authentication and user management
