@@ -55,7 +55,7 @@ A high-powered SaaS template packed with built-in user authentication, subscript
 👉 **Cross-Device Compatibility** - Fully responsive design for all devices
 
 👉 **Scalable Tech Stack** - Built with Next.js for production-ready performance
-👉 **Modern UI/UX** - Clean, intuitive interface with shadcn/ui components and seamless user experience
+
 
 ## <a name="quick-start">🚀 Quick Start</a>
 
