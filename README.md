@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   </div>
 
-  <h3 align="center">SaaS App - LMS with Next.js, Supabase & Payment\</h3>
+  <h3 align="center">SaaS App - LMS with Next.js, Supabase & Paymentss\</h3>
 </div>
 
 ## 📋 Table of Contents
