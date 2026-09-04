@@ -26,7 +26,7 @@
 7. [Deployment](#deployment)
 8. [Credits](#credits)
 
-## <a name="introduction">🤖 Introductions</a>
+## <a name="introduction">🤖 Introduction</a>
 
 A high-powered SaaS template packed with built-in user authentication, subscriptions, and payments using Next.js, Supabase, and Clerk. Hit the ground running and turn your idea into reality faster than ever.
 
