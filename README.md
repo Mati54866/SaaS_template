@@ -40,7 +40,7 @@ A high-powered SaaS template packed with built-in user authentication, subscript
 - **Tailwind CSS** - Utility-first styling
 - **TypeScript** - Type-safe JavaScript
 - **shadcn/ui** - Customizable component library
-- **Zod** - Schema validation
+- **Zod** - Schema validations
 
 ## <a name="features">🔋 Features</a>
 
