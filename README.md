@@ -6,6 +6,7 @@
   <br />
 
   <div>
+    <a href="https://github.com/Mati54866/SaaS_template/actions"><img src="https://github.com/Mati54866/SaaS_template/actions/workflows/ci.yml/badge.svg" alt="CI Status" /></a>
     <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
     <img src="https://img.shields.io/badge/-Tailwind-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/-Clerk-6C47FF?style=for-the-badge&logoColor=white&logo=clerk" alt="clerk" />
