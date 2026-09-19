@@ -16,7 +16,7 @@
   <h3 align="center">SaaS App - LMS with Next.js, Supabase & Payments\</h3>
 </div>
 
-## 📋 Table of Contents
+## 📋 Table of Content
 
 1. [Introduction](#introduction)
 2. [Tech Stack](#tech-stack)
