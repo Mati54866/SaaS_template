@@ -66,7 +66,7 @@ A high-powered SaaS template packed with built-in user authentication, subscript
 - [Node.js](https://nodejs.org/) (v18 or higher)
 - [npm](https://www.npmjs.com/)
 
-### Installation
+### Installations
 
 ```bash
 # Clone the repository
