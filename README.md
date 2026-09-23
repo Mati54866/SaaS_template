@@ -31,7 +31,7 @@
 
 A high-powered SaaS template packed with built-in user authentication, subscriptions, and payments using Next.js, Supabase, and Clerk. Hit the ground running and turn your idea into reality faster than ever.
 
-> 📌 **Note:** This project was built following a tutorial and customized for learning and portfolio purpose.
+> 📌 **Note:** This project was built following a tutorial and customized for learning and portfolio purposes.
 
 ## <a name="tech-stack">⚙️ Tech Stacks</a>
 
