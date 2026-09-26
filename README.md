@@ -35,7 +35,7 @@ A high-powered SaaS template packed with built-in users authentication, subscrip
 
 ## <a name="tech-stack">⚙️ Tech Stacks</a>
 
-- **Next.js** - React framework with API routes
+- **Next.js** - React framework with API route
 - **Clerk** - Authentication and user management
 - **Supabase** - Backend-as-a-service with PostgreSQL
 - **Tailwind CSS** - Utility-first styling
