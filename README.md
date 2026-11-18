@@ -58,7 +58,7 @@ A high-powered SaaS template packed with built-in user authentication, subscript
 👉 **Scalable Tech Stack** - Built with Next.js for production-ready performance
 
 
-## <a name="quick-start">🚀 Quick Start</a>
+## <a name="quick-start">🚀 Quick Starts</a>
 
 ### Prerequisites
 
